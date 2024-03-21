@@ -1,11 +1,6 @@
-.titulo {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: normal;
-    align-items: normal;
-    align-content: normal;
-    border:20px
+.Titulo{
+  align-content: center;
+  background-color: aqua;
 }
 
 .flex-container {
